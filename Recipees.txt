@@ -5,6 +5,7 @@ Pasta
 Rice
 Maggie
 
-
+Beans
+Pizza
 
 Thank You!
